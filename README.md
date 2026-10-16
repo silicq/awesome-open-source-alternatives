@@ -156,6 +156,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Quizlet](https://quizlet.com/)
 - [Anki](https://github.com/ankitects/anki)
+- [Ordkort](https://github.com/silicq/ordkort)
 - [Revu](https://github.com/JuliusBrussee/revu-swift)
 
 ### [Salesforce](https://salesforce.com/)
